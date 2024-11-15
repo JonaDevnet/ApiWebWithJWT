@@ -4175,19 +4175,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joni\\.nuget\\packages\\": {}
+    "C:\\Users\\Jonat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joni\\source\\repos\\AWJWT\\AWJWT\\AWJWT.csproj",
+      "projectUniqueName": "C:\\Users\\Jonat\\Source\\Repos\\ApiWebWithJWT\\AWJWT\\AWJWT.csproj",
       "projectName": "AWJWT",
-      "projectPath": "C:\\Users\\Joni\\source\\repos\\AWJWT\\AWJWT\\AWJWT.csproj",
-      "packagesPath": "C:\\Users\\Joni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joni\\source\\repos\\AWJWT\\AWJWT\\obj\\",
+      "projectPath": "C:\\Users\\Jonat\\Source\\Repos\\ApiWebWithJWT\\AWJWT\\AWJWT.csproj",
+      "packagesPath": "C:\\Users\\Jonat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jonat\\Source\\Repos\\ApiWebWithJWT\\AWJWT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4265,7 +4265,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
